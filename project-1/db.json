@@ -1,0 +1,12 @@
+{
+    "movies": [
+      { "id": 1, "title": "json-server", "author": "typicode" },
+      {
+        "id" : 2,
+        "title":"vi du 2",
+        "author":"web 36"
+        
+      }
+    ]
+ 
+  }
